@@ -1,0 +1,5 @@
+<!-- SSAS Cube: Claims DW (SQL Server 2012) -->
+<Create xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ObjectDefinition><Database><ID>Insurance-Claims-Analytics-Warehouse</ID><Name>Claims DW</Name></Database></ObjectDefinition>
+</Create>
+<!-- Deploy via SSMS: Connect to Analysis Services > New Database > Use XMLA -->
